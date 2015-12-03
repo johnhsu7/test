@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 this is a test file for git.
 v2.0 modified.
 testing feature branch modified.
 v3.0 modified.
+=======
+This is a test.txt, just for git test
+# on branch v1
+# nothing added to commit but untracked files present ( use "git add" to track )
+>>>>>>> 64c4d5cb79fbcbba3bde3e0c591b6490015cd173
